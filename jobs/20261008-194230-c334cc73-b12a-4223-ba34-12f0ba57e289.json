@@ -1,0 +1,14 @@
+{
+  "command": "review",
+  "target_org": "Terracotta-OSS",
+  "target_repo": "terracotta-platform",
+  "pr_number": 1347,
+  "actor": "alexander-komarov-ibm",
+  "issue_title": "Test Commit, ignore",
+  "target_github_host": "https://api.github.com",
+  "max_cost_review": 5,
+  "max_cost_summary": 2,
+  "max_cost_triage": 2,
+  "enqueued_at": "2026-10-08T19:42:30Z",
+  "source_run_url": "https://github.com/Terracotta-OSS/terracotta-platform/actions/runs/37833943482"
+}

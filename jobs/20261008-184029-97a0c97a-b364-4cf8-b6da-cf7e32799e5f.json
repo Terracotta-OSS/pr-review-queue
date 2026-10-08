@@ -1,0 +1,14 @@
+{
+  "command": "review",
+  "target_org": "Terracotta-OSS",
+  "target_repo": "testrepo",
+  "pr_number": 1,
+  "actor": "alexander-komarov-ibm",
+  "issue_title": "Add additional test description to README",
+  "target_github_host": "https://api.github.com",
+  "max_cost_review": 5,
+  "max_cost_summary": 2,
+  "max_cost_triage": 2,
+  "enqueued_at": "2026-10-08T18:40:29Z",
+  "source_run_url": "https://github.com/Terracotta-OSS/testrepo/actions/runs/37826092713"
+}

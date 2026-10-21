@@ -1,0 +1,14 @@
+{
+  "command": "review",
+  "target_org": "Terracotta-OSS",
+  "target_repo": "terracotta-core",
+  "pr_number": 1438,
+  "actor": "myronkscott",
+  "issue_title": "ClusterState should not be applied across DR Bridge.",
+  "target_github_host": "https://api.github.com",
+  "max_cost_review": 5,
+  "max_cost_summary": 2,
+  "max_cost_triage": 2,
+  "enqueued_at": "2026-10-21T00:16:08Z",
+  "source_run_url": "https://github.com/Terracotta-OSS/terracotta-core/actions/runs/39520277078"
+}

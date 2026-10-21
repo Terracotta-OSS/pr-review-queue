@@ -1,0 +1,14 @@
+{
+  "command": "review",
+  "target_org": "Terracotta-OSS",
+  "target_repo": "terracotta-core",
+  "pr_number": 1439,
+  "actor": "jhouserizer",
+  "issue_title": "TDB-19513: Add MetricService SPI and wire server metric instrumentation",
+  "target_github_host": "https://api.github.com",
+  "max_cost_review": 20,
+  "max_cost_summary": 2,
+  "max_cost_triage": 2,
+  "enqueued_at": "2026-10-21T20:22:42Z",
+  "source_run_url": "https://github.com/Terracotta-OSS/terracotta-core/actions/runs/39669761040"
+}

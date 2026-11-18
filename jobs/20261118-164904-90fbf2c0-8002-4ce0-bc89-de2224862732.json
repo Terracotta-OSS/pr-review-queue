@@ -1,0 +1,14 @@
+{
+  "command": "review",
+  "target_org": "Terracotta-OSS",
+  "target_repo": "terracotta-core",
+  "pr_number": 1441,
+  "actor": "myronkscott",
+  "issue_title": "Add queryable state and broaden monitoring use",
+  "target_github_host": "https://api.github.com",
+  "max_cost_review": 20,
+  "max_cost_summary": 2,
+  "max_cost_triage": 2,
+  "enqueued_at": "2026-11-18T16:49:04Z",
+  "source_run_url": "https://github.com/Terracotta-OSS/terracotta-core/actions/runs/44351577914"
+}
